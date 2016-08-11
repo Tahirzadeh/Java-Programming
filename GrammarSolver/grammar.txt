@@ -1,0 +1,9 @@
+firstName::=Abbas|Reges|Forr|Donald|Walter|Zorah|Rooney
+prefix::=Mrs.|Mr.|Sir|Madame|Knight|King|Dictator
+lastName::=Kingly|Stuart|Trump|White|Fung|with no last name
+nameNum::=the I|the II|the III|the IV|the V|the VI
+fullName::=prefix firstName lastName nameNum|firstName lastName|prefix firstName lastName
+verb::=ate|jumped over|created|eviscerated|befriended|played soccer with|became
+something::=a cow|people|an xbox one|Java programming|my TA
+location::= on Mars|in your bed|at UW|outside WSU's ruins|in Seattle
+sentence::= fullName verb something|fullName verb something location|fullName verb something and your mom|fullName verb something and your mom location

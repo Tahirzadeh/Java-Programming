@@ -1,0 +1,39 @@
+Q:Is it a weapon?
+Q:Is it a gun?
+Q:Can it be used with one hand?
+A:revolver
+A:rifle
+Q:Can it be thrown for attacking?
+A:spear
+Q:Is it a long range weapon?
+Q:Is it a WMD?
+A:a nuke
+A:bow and arrow
+A:sword
+Q:Can it be used to store liquid?
+Q:Is it an open only container?
+A:a mug
+A:bottle
+Q:Can it be used to call people?
+A:phone
+Q:Can you drive in it?
+Q:Can it hold more than 10 people?
+A:a bus
+A:a car
+Q:Is it living?
+Q:Is it a human?
+Q:Is it a professor?
+A:Zoey
+A:Duncan
+Q:Is it orange?
+A:Donald Trump
+A:husky
+Q:Is it a class at UW?
+Q:Is it an entry level class?
+Q:Is it the study of life?
+A:BIO 180
+A:CSE 142
+Q:Is it a science class?
+A:CHEM 237
+A:CSE 143
+A:computer
